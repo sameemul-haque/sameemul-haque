@@ -5,6 +5,12 @@
 <br>
 
 ### Languages and Tools:
+<a href="https://java.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+&nbsp;
+<a href="https://python.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+&nbsp;
 <a href="https://developer.android.com/kotlin/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/kotlin_android.svg" alt="kotlin" width="40" height="40"/> </a> 
 &nbsp;
