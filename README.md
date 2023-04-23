@@ -1,7 +1,6 @@
 ## Hey, My name is Sameemul Haque K 
 
 ### I’m interested in Mobile App Development <br>
-### I’m currently learning Kotlin <a href="https://developer.android.com/kotlin/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/samhaqk/logo/main/kotlin_android.svg" alt="kotlin" width="15" height="15"/> </a> & Jetpack Compose <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/samhaqk/logo/main/jetpack_compose.svg" alt="compose" width="15" height="15"/> </a>
 ### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 <br>
 
