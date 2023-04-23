@@ -17,7 +17,9 @@
 <a href="https://figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 &nbsp;
-
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+&nbsp;
 
 
 <br>
@@ -27,7 +29,7 @@
 <p align="left"> 
 <a href="https://www.linkedin.com/in/sameemul-haque" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 &nbsp;
-<a href="https://www.twitter.com/erasedShadow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/erasedshadow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 &nbsp; 
 <a href="http://www.instagram.com/sameemul_haque" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 &nbsp;
