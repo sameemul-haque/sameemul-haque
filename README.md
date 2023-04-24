@@ -11,6 +11,9 @@
 <a href="https://python.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 &nbsp;
+<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer">
+<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a> 
+&nbsp;
 <a href="https://developer.android.com/kotlin/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/kotlin_android.svg" alt="kotlin" width="40" height="40"/> </a> 
 &nbsp;
