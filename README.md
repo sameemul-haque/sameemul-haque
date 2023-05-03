@@ -1,6 +1,6 @@
 ## Hey, My name is Sameemul Haque K 
 
-### I’m interested in Mobile App Development <br>
+### I’m interested in Web Development and Mobile App Development <br>
 ### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 <br>
 
