@@ -6,28 +6,37 @@
 
 ### Languages and Tools:
 <a href="https://java.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a> 
 &nbsp;
 <a href="https://python.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a> 
 &nbsp;
-<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer">
-<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a> 
+&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a> 
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/></a> 
+&nbsp;
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/></a> 
 &nbsp;
 <a href="https://developer.android.com/kotlin/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/kotlin_android.svg" alt="kotlin" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/kotlin_android.svg" alt="kotlin" width="40" height="40"/></a> 
 &nbsp;
 <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/jetpack_compose.svg" alt="compose" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/jetpack_compose.svg" alt="compose" width="40" height="40"/></a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 &nbsp;
 <a href="https://figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 &nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
 &nbsp;
 
 
