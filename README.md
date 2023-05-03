@@ -55,7 +55,7 @@
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32" height="32" /></a> 
 &nbsp;
 <a href="https://g.dev/sameemul-haque/">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" width="40" height="32"/> </a> 
+<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" width="40" height="32"/></a> 
 &nbsp;
 </p>
 
