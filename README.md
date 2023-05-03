@@ -2,8 +2,8 @@
 
 ### I’m interested in Web Development and Mobile App Development <br>
 ### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
-<br>
 
+---
 ### Languages and Tools:
 <a href="https://html.spec.whatwg.org/multipage/">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a> 
@@ -39,9 +39,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
 &nbsp;
 
-
-<br><br>
-
+---
 ### Connect with me:
 
 <p align="left"> 
@@ -60,13 +58,11 @@
 </p>
 
 ---
-![sameemul-haque's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameemul-haque&show_icons=true&theme=react&count_private=true&hide_border=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sameemul-haque&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=6&theme=react&hide_border=true&hide=Hack)
-
+---
 <!---
 sameemul-haque/sameemul-haque is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
