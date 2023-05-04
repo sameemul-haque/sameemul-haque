@@ -27,13 +27,16 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/></a> 
 &nbsp;
 <a href="https://developer.android.com/kotlin/">
-<img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/kotlin_android.svg" alt="kotlin" height="40"/></a> 
+<img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlin" height="40"/></a> 
 &nbsp;
 <a href="https://developer.android.com/jetpack/compose">
 <img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/jetpack_compose.svg" alt="compose" height="40"/></a>
 &nbsp;
 <a href="https://git-scm.com/">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a> 
+&nbsp;
+<a href="https://github.com/">
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40"/></a> 
 &nbsp;
 <a href="https://figma.com/">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/></a> 
