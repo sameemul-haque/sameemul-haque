@@ -11,6 +11,9 @@
 <a href="https://www.w3.org/TR/CSS/#css">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="40"/></a> 
 &nbsp;
+<a href="https://getbootstrap.com/">
+<img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" height="40"/></a> 
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" height="40"/></a> 
 &nbsp;
@@ -19,6 +22,9 @@
 &nbsp;
 <a href="https://www.php.net/docs.php">
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" height="40"/></a> 
+&nbsp;
+<a href="https://www.mysql.com/">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/></a> 
 &nbsp;
 <a href="https://java.com/">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/></a> 
