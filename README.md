@@ -26,6 +26,9 @@
 <a href="https://www.mysql.com/">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/></a> 
 &nbsp;
+<a href="https://www.open-std.org/jtc1/sc22/wg14/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="40"/></a> 
+&nbsp;
 <a href="https://java.com/">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/></a> 
 &nbsp;
