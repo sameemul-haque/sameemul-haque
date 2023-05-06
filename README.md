@@ -1,6 +1,7 @@
 ## Hey, My name is Sameemul Haque K 
 
 ### I’m interested in Web Development and Mobile App Development <br>
+### <a href="https://sameemul-haque.web.app/"> My Portfolio Website </a>
 ### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 
 ---
@@ -41,6 +42,7 @@
 <a href="https://developer.android.com/jetpack/compose">
 <img src="https://raw.githubusercontent.com/sameemul-haque/logo/main/jetpack_compose.svg" alt="compose" height="40"/></a>
 &nbsp;
+<br>
 <a href="https://git-scm.com/">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a> 
 &nbsp;
@@ -59,16 +61,16 @@
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/sameemul-haque">
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="32" /></a> 
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="45" /></a> 
 &nbsp;
-<a href="https://www.twitter.com/erasedshadow">
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="32" /></a>
+<a href="https://www.twitter.com/sameemul_haque">
+<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="45" /></a>
 &nbsp; 
 <a href="http://www.instagram.com/sameemul_haque">
-<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="32" /></a> 
+<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="45" /></a> 
 &nbsp;
 <a href="https://g.dev/sameemul-haque/">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" height="32"/></a> 
+<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" height="45"/></a> 
 &nbsp;
 </p>
 
