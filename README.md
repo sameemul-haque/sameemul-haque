@@ -8,53 +8,56 @@
 ### Languages and Tools:
 <a href="https://html.spec.whatwg.org/multipage/">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://getbootstrap.com/">
 <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://react.dev/">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.php.net/docs.php">
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.mysql.com/">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.open-std.org/jtc1/sc22/wg14/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://java.com/">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://python.org/">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <br>
 <a href="https://git-scm.com/">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/">
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://figma.com/">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://firebase.google.com/">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/">
 <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vscode" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
+<a href="https://developer.android.com/studio">
+<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/android-studio-icon.svg" alt="android-studio" height="40"/></a> 
+&nbsp;&nbsp;
 <a href="https://www.zoho.com/sites/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/ZOHO.svg" alt="zoho" height="40"/></a> 
-&nbsp;
+&nbsp;&nbsp;
 
 
 
