@@ -80,11 +80,13 @@
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sameemul-haque&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sameemul-haque&theme=react&border_radius=5)](https://git.io/streak-stats)
+---
+![Most Used Languages](https://github-readme-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=react)
+---
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=6&theme=react&hide_border=true&hide=Hack)
----
+
+
 <!---
 sameemul-haque/sameemul-haque is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
