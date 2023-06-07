@@ -82,7 +82,7 @@
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sameemul-haque&theme=react&border_radius=5)](https://git.io/streak-stats)
 ---
-![Most Used Languages](https://github-readme-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=react)
+![Most Used Languages](https://github-readme-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=react&count-private=true)
 ---
 
 
