@@ -80,7 +80,7 @@
 </p>
 
 ---
-![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=react&count-private=true)
+![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true)
 ---
 
 
