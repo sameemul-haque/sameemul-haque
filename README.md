@@ -21,6 +21,10 @@
 <a href="https://react.dev/">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="40"/></a> 
 &nbsp;&nbsp;
+<a href="https://nodejs.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="40"/></a> 
+&nbsp;&nbsp;
+
 <a href="https://www.php.net/docs.php">
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" height="40"/></a> 
 &nbsp;&nbsp;
