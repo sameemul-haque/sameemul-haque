@@ -1,4 +1,4 @@
-# Hey, My name is Sameemul Haque K
+# Hey, My name is Sameemul Haque
 
 ### I’m interested in Web Development and Mobile App Development <br>
 
