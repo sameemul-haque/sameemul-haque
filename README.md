@@ -2,9 +2,10 @@
 
 ### I’m interested in Web Development and Mobile App Development <br>
 
+### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
+
 ### <a href="https://sameemul-haque.vercel.app/"> My Portfolio Website </a>
 
-### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 
 ---
 
@@ -27,8 +28,7 @@
 
 ---
 
-
-## ![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true)
+![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true&hide=glsl,roff "Most Used Languages")
 
 <!---
 sameemul-haque/sameemul-haque is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
