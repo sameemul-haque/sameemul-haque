@@ -4,7 +4,7 @@
 
 ### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 
-### <a href="https://sameemul-haque.vercel.app/"> My Portfolio Website </a>
+### <a href="https://sameemul-haque.vercel.app/"> Portfolio </a>
 
 
 ---
