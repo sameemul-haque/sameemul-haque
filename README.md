@@ -1,11 +1,8 @@
 # Hey, My name is Sameemul Haque
 
-### I’m interested in Web Development and Mobile App Development <br>
-
-### You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
-
-### <a href="https://sameemul-haque.vercel.app/"> Portfolio </a>
-
+- I’m interested in Web Development and Mobile App Development <br>
+- You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
+- [Portfolio](https://sameemul-haque.vercel.app/")
 
 ---
 
@@ -33,4 +30,7 @@
 <!---
 sameemul-haque/sameemul-haque is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+<!---
+i use arch btw.
 --->
