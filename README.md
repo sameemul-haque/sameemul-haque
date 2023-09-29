@@ -2,7 +2,7 @@
 
 - I’m interested in Web Development and Mobile App Development <br>
 - You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
-- [Portfolio](https://sameemul-haque.vercel.app/")
+- [Portfolio](https://sameemul-haque.vercel.app/)
 
 ---
 
