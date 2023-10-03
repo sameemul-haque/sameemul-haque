@@ -22,7 +22,7 @@
 
 ---
 ### Most Used Languages
-[![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=20&role=owner,collaborator&theme=transparent&border_color=30363d&count-private=true&hide=glsl,roff,lua&hide_progress=true&hide_title=true "Most Used Languages")](https://github.com/sameemul-haque)
+[![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=25&role=owner,collaborator&theme=transparent&border_color=30363d&hide=glsl,roff,lua&hide_progress=true&hide_title=true&count-private=true "Most Used Languages")](https://github.com/sameemul-haque)
 
 ---
 ### Academic Projects
