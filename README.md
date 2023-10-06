@@ -9,6 +9,12 @@
 <a href="https://www.linkedin.com/in/sameemul-haque">
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="45" /></a> 
 &nbsp;
+<a href="https://discordapp.com/users/764716671382061096">
+<img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" height="45" /></a> 
+&nbsp;
+<a href="https://t.me/sameemul_haque">
+<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="45" /></a> 
+&nbsp;
 <a href="https://www.twitter.com/sameemul_haque">
 <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="45" /></a>
 &nbsp; 
