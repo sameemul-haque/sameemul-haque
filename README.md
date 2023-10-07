@@ -1,8 +1,9 @@
 # Hey, My name is Sameemul Haque
 - I’m interested in Web Development and Mobile App Development <br>
 - You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
-- [Portfolio](https://sameemul-haque.vercel.app/)
 
+| <a href="https://sameemul-haque.vercel.app/">Portfolio Website</a> |
+| --- |
 ---
 ### Connect with me:
 <p align="left"> 
@@ -32,14 +33,15 @@
 
 ---
 ### Academic Projects
-[![MiniStudyMate](https://github-readme-stats.vercel.app/api/pin/?username=sameemul-haque&repo=MiniStudyMate&border_color=30363d&theme=transparent "MiniStudyMate - Web based Study Material Retrieval System ")](https://github.com/sameemul-haque/MiniStudyMate)
-[![PCRMS](https://github-readme-stats.vercel.app/api/pin/?username=sameemul-haque&repo=PCRMS&border_color=30363d&theme=transparent "PCRMS - Police Crime Record Management System")](https://github.com/sameemul-haque/PCRMS)
+[![MiniStudyMate](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=MiniStudyMate&border_color=30363d&theme=transparent "MiniStudyMate - Web based Study Material Retrieval System ")](https://github.com/sameemul-haque/MiniStudyMate)
+[![PCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=PCRMS&border_color=30363d&theme=transparent "PCRMS - Police Crime Record Management System")](https://github.com/sameemul-haque/PCRMS)
 
 ---
 ### Hobby Projects
-[![ConnectInChat](https://github-readme-stats.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
-[![ProjectPCRMS](https://github-readme-stats.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)
-[![Job Portal](https://github-readme-stats.vercel.app/api/pin/?username=sameemul-haque&repo=Job-Portal&border_color=30363d&theme=transparent "Job Portal - A responsive job portal web page for job openings ")](https://github.com/sameemul-haque/Job-Portal)
+[![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://sameemul-haque.vercel.app/)
+[![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
+[![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)
+[![Job Portal](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Job-Portal&border_color=30363d&theme=transparent "Job Portal - A responsive job portal web page for job openings ")](https://github.com/sameemul-haque/Job-Portal)
 
 ---
 <p align=right><samp>i use arch btw</samp></p>
