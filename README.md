@@ -38,7 +38,7 @@
 
 ---
 ### Hobby Projects
-[![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://sameemul-haque.vercel.app/)
+[![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/portfolio)
 [![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
 [![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)
 [![Job Portal](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Job-Portal&border_color=30363d&theme=transparent "Job Portal - A responsive job portal web page for job openings ")](https://github.com/sameemul-haque/Job-Portal)
