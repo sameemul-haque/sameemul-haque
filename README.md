@@ -29,19 +29,25 @@
 
 ---
 ### Most Used Languages
-[![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=25&role=owner,collaborator&theme=transparent&border_color=30363d&hide=glsl,roff,lua&hide_progress=true&hide_title=true&count-private=true "Most Used Languages")](https://github.com/sameemul-haque)
+[![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=25&role=owner,collaborator&theme=transparent&border_color=30363d&hide=glsl,lua&hide_progress=true&hide_title=true&count-private=true "Most Used Languages")](https://github.com/sameemul-haque)
 
----
-### Academic Projects
+<details>
+    <summary>Academic Projects</summary>
+  
 [![MiniStudyMate](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=MiniStudyMate&border_color=30363d&theme=transparent "MiniStudyMate - Web based Study Material Retrieval System ")](https://github.com/sameemul-haque/MiniStudyMate)
 [![PCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=PCRMS&border_color=30363d&theme=transparent "PCRMS - Police Crime Record Management System")](https://github.com/sameemul-haque/PCRMS)
 
----
-### Hobby Projects
+</details>
+
+<details>
+    <summary>Hobby Projects</summary>
+  
 [![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/portfolio)
 [![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
 [![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)
 [![Job Portal](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Job-Portal&border_color=30363d&theme=transparent "Job Portal - A responsive job portal web page for job openings ")](https://github.com/sameemul-haque/Job-Portal)
+
+</details>
 
 ---
 <p align=right><samp>i use arch btw</samp></p>
