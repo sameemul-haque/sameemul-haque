@@ -22,9 +22,6 @@
 <a href="http://www.instagram.com/sameemul_haque">
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="45" /></a> 
 &nbsp;
-<a href="https://g.dev/sameemul-haque/">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" height="45"/></a> 
-&nbsp;
 </p>
 
 ---
@@ -46,6 +43,22 @@
 [![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
 [![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)
 [![Job Portal](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Job-Portal&border_color=30363d&theme=transparent "Job Portal - A responsive job portal web page for job openings ")](https://github.com/sameemul-haque/Job-Portal)
+
+</details>
+
+<details>
+    <summary>Achievements | Badges</summary>
+
+<br>
+<p align="left">
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.holopin.io/@sameemulhaque#badges">
+<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" height="45" /></a> 
+&nbsp;&nbsp;
+<a href="https://g.dev/sameemul-haque/">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" height="45"/></a> 
+&nbsp;&nbsp;
+</p>
 
 </details>
 
