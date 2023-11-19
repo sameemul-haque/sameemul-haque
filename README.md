@@ -37,7 +37,7 @@
 </details>
 
 <details>
-    <summary>Hobby Projects</summary>
+    <summary>Personal Projects</summary>
   
 [![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/portfolio)
 [![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
