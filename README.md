@@ -1,5 +1,5 @@
 # Hey, My name is Sameemul Haque
-- I’m interested in Web Development and Mobile App Development <br>
+- I’m interested in Web Development and Mobile App Development 
 - You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 
 | <a href="https://sameemul-haque.vercel.app/">Portfolio Website</a> |
@@ -30,19 +30,40 @@
 
 <details>
     <summary>Academic Projects</summary>
-  
+<br>
+    
 [![MiniStudyMate](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=MiniStudyMate&border_color=30363d&theme=transparent "MiniStudyMate - Web based Study Material Retrieval System ")](https://github.com/sameemul-haque/MiniStudyMate)
+
 [![PCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=PCRMS&border_color=30363d&theme=transparent "PCRMS - Police Crime Record Management System")](https://github.com/sameemul-haque/PCRMS)
 
 </details>
 
 <details>
     <summary>Personal Projects</summary>
-  
+<br>
+    
 [![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/portfolio)
+
 [![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
-[![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)
+
+<!---[![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)--->
+
 [![Job Portal](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Job-Portal&border_color=30363d&theme=transparent "Job Portal - A responsive job portal web page for job openings ")](https://github.com/sameemul-haque/Job-Portal)
+
+</details>
+
+<details>
+    <summary>Contributions</summary>
+
+<br>
+
+[![Devicons](https://github-sam.vercel.app/api/pin/?username=devicons&repo=devicon&border_color=30363d&theme=transparent&show_owner=true "Devicon")](https://github.com/devicons/devicon/pulls?q=is%3Apr+is%3Amerged+author%3Asameemul-haque)
+
+[![OpenTalk](https://github-sam.vercel.app/api/pin/?username=shijazks&repo=OpenTalk&border_color=30363d&theme=transparent&show_owner=true "OpenTalk")](https://github.com/ShijazKS/OpenTalk/issues?q=+author%3Asameemul-haque)
+
+[![DialogMusicPlayer](https://github-sam.vercel.app/api/pin/?username=VishnuSanal&repo=DialogMusicPlayer&border_color=30363d&theme=transparent&show_owner=true "DialogMusicPlayer")](https://github.com/VishnuSanal/DialogMusicPlayer/issues?q=+author%3Asameemul-haque)
+
+[![SearchServer](https://github-sam.vercel.app/api/pin/?username=nuzaim&repo=SearchServer&border_color=30363d&theme=transparent&show_owner=true "SearchServer")](https://github.com/Nuzaim/searchServer/issues?q=+author%3Asameemul-haque)
 
 </details>
 
