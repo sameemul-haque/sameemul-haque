@@ -42,9 +42,11 @@
     <summary>Personal Projects</summary>
 <br>
     
-[![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/portfolio)
+[![Portfolio](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=Portfolio&border_color=30363d&theme=transparent "Personal Portfolio Website")](https://github.com/sameemul-haque/portfolio)
 
-[![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)
+[![ChatForAll](https://github-sam.vercel.app/api/pin/?username=ChatForAll&repo=ChatForAll&border_color=30363d&theme=transparent "ChatForAll - A simple real-time chat application created using Next.js, Tailwind CSS and Firebase, designed for ease of use and accessibility without the need for user authentication. ")](https://github.com/ChatForAll/ChatForAll)
+
+<!---[![ConnectInChat](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ConnectInChat&border_color=30363d&theme=transparent "ConnectInChat - A real time chat app with a single public chat room")](https://github.com/sameemul-haque/ConnectInChat)--->
 
 <!---[![ProjectPCRMS](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=ProjectPCRMS&border_color=30363d&theme=transparent "ProjectPCRMS - A mini version of Police Crime Record Management System")](https://github.com/sameemul-haque/ProjectPCRMS)--->
 
