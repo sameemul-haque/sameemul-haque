@@ -79,7 +79,7 @@
 <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" height="45" /></a> 
 &nbsp;&nbsp;
 <a href="https://g.dev/sameemul-haque/">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/developers/images/icon.svg" alt="google_developers" height="45"/></a> 
+<img src="https://developers.google.com/static/profile/badges/community/gdsc/2023/member/badge.svg" alt="google_developers" height="45"/></a> 
 &nbsp;&nbsp;
 <a href="https://github.com/sameemul-haque?tab=achievements">
 <img src="https://github.githubassets.com/assets/github-mark-9be88460eaa6.svg" height="45" /></a> 
