@@ -2,7 +2,7 @@
 - I’m interested in Web Development and Mobile App Development 
 - You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
 
-| <a href="https://sameemul-haque.github.io/">Portfolio Website</a> |
+| <a href="https://sameemul-haque.vercel.app/">Portfolio Website</a> |
 | --- |
 ---
 ### Connect with me:
