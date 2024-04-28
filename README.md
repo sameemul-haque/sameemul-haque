@@ -32,6 +32,9 @@
     <summary>Academic Projects</summary>
 <br>
 
+
+[![KTUGPT](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=KTUGPT&border_color=30363d&theme=transparent "KTUGPT - Website designed for answering questions based on the context from the textbook PDFs ")](https://github.com/sameemul-haque/KTUGPT)
+
 [![KTUGPT-Python](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=KTUGPT-Python&border_color=30363d&theme=transparent "KTUGPT-Python - Flask web service that is designed for answering questions based on the context from the textbook PDFs ")](https://github.com/sameemul-haque/KTUGPT-Python)
     
 [![MiniStudyMate](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=MiniStudyMate&border_color=30363d&theme=transparent "MiniStudyMate - Web based Study Material Retrieval System ")](https://github.com/sameemul-haque/MiniStudyMate)
@@ -43,6 +46,8 @@
 <details>
     <summary>Personal Projects</summary>
 <br>
+
+[![GitArt](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=GitArt&border_color=30363d&theme=transparent "GitArt - GitHub contribution graph customizer")](https://github.com/sameemul-haque/GitArt)
 
 [![TranscribeTool](https://github-sam.vercel.app/api/pin/?username=sameemul-haque&repo=TranscribeTool&border_color=30363d&theme=transparent "TranscribeTool - A web interface designed to extract words from video | audio files into text ")](https://github.com/sameemul-haque/TranscribeTool)
     
