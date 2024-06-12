@@ -25,8 +25,10 @@
 </p>
 
 ---
+<!---
 ### Most Used Languages
 [![Most Used Languages](https://github-sam.vercel.app/api/top-langs/?username=sameemul-haque&layout=compact&langs_count=25&role=owner,collaborator&theme=transparent&border_color=30363d&hide=glsl,lua&hide_progress=true&hide_title=true&count-private=true "Most Used Languages")](https://github.com/sameemul-haque)
+--->
 
 <details>
     <summary>Academic Projects</summary>
@@ -98,7 +100,9 @@
 </details>
 
 ---
+<!---
 <p align=right><samp>i use arch btw</samp></p>
+--->
 <!---
 sameemul-haque/sameemul-haque is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
