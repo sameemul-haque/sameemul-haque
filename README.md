@@ -1,6 +1,6 @@
 # Hey, My name is Sameemul Haque
 - I’m interested in Web Development and Mobile App Development 
-- You can contact me at [samhaqk@gmail.com](mailto:samhaqk@gmail.com)
+- You can contact me at [me@sameem.dev](mailto:me@sameem.dev)
 
 | <a href="https://sameemul-haque.vercel.app/">Portfolio Website</a> |
 | --- |
