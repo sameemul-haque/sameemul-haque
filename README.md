@@ -2,7 +2,7 @@
 - I’m interested in Web Development and Mobile App Development 
 - You can contact me at [me@sameem.dev](mailto:me@sameem.dev)
 
-| <a href="https://sameemul-haque.vercel.app/">Portfolio Website</a> |
+| <a href="https://sameem.dev/">Portfolio Website</a> |
 | --- |
 ---
 ### Connect with me:
