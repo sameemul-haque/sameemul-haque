@@ -87,7 +87,7 @@
 <p align="left">
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.holopin.io/@sameemulhaque#badges">
-<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" height="45" /></a> 
+<img src="https://assets.holopin.io/hf2023levels/level4-blue-0-0-0.webp" height="45" /></a> 
 &nbsp;&nbsp;
 <a href="https://g.dev/sameemul-haque/">
 <img src="https://developers.google.com/static/profile/badges/community/gdsc/2023/member/badge.svg" alt="google_developers" height="45"/></a> 
