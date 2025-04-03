@@ -14,7 +14,7 @@
 <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" height="45" /></a> 
 &nbsp;
 <a href="https://t.me/sameemul_haque">
-<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="45" /></a> 
+<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg?v=1" height="45" /></a> 
 &nbsp;
 <a href="https://www.twitter.com/sameemul_haque">
 <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="45" /></a>
